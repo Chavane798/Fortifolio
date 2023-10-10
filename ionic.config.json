@@ -1,0 +1,8 @@
+{
+  "name": "Gervasio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "5c6ca00b"
+}
